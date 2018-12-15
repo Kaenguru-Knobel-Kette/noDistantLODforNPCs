@@ -1,0 +1,5 @@
+dist/
+node_modules/
+releases/
+*.sublime-project
+*.sublime-workspace

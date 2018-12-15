@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "gulp build",
+    "release": "gulp release",
+    "test": "gulp test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.6.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-zip": "^4.1.0"
+  }
+}

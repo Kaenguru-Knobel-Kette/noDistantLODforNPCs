@@ -1,0 +1,12 @@
+{
+  "id": "noDistantLODforNPCs",
+  "name": "No Distant LOD for NPCs",
+  "author": "thetrader",
+  "version": "1.0.0",
+  "released": "12/15/2018",
+  "updated": "12/15/2018",
+  "description": "Removes distant LOD from NPCs",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
